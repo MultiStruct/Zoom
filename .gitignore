@@ -1,0 +1,15 @@
+
+*.xml
+.idea/.name
+target/classes/com/codingame/game/Player.class
+target/classes/com/codingame/game/Referee.class
+target/classes/stuff/consts.class
+target/classes/stuff/view/ViewModule.class
+target/classes/view/assets/logo.png
+target/classes/view/config.js
+target/classes/view/demo.js
+target/classes/view/modules/ViewModule.js
+target/test-classes/Agent1.class
+target/test-classes/Agent2.class
+target/test-classes/log4j2.properties
+target/test-classes/Main.class
